@@ -1,2 +1,2 @@
 <?php
-    echo 'Ok';
+    echo 'Ciao';
